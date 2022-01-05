@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.exe
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.deps.json
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.runtimeconfig.json
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.dll
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\bin\Debug\netcoreapp3.1\Dice Game.pdb
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.dll
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.pdb
+C:\Users\user\Desktop\C# Mini Projects\Dice Game\obj\Debug\netcoreapp3.1\Dice Game.genruntimeconfig.cache
